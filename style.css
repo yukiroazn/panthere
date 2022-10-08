@@ -784,12 +784,6 @@ h4 {
     font-size: 50px;
 }
 
-.tc-white1 {
-    color: #ffffff!important;
-    font-weight: bold;
-    font-size: 20px;
-}
-
 .btn-atomic-tangerine {
     background: #F3976C;
     color:black!important;
@@ -1106,4 +1100,11 @@ h4 {
 {
     font-size: 18px;
     color: black;
+}
+
+.textagence8
+{
+    font-size: 20px;
+    color: white;
+    font-weight: 1;
 }
