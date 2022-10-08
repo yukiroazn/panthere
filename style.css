@@ -1106,4 +1106,25 @@ h4 {
 {
     font-size: 20px;
     color: white;
+    font-weight: normal;
+}
+
+.footertext
+{
+    color: black;
+    margin-bottom: 25px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.footertext1
+{
+    margin-top: 30px;
+    color: black;
+    font-size: 18px;
+}
+
+.footercolor
+{
+    color: black;
 }
