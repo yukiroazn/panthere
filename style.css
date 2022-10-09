@@ -1097,9 +1097,15 @@ h4 {
 
 .textagence9
 {
-    font-size: 18px;
+    font-size: 25px;
     color: black;
     font-weight: bold;
+}
+
+.textagence10
+{
+    font-size: 18px;
+    color: black;
 }
 
 .footertext
