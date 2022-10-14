@@ -1108,6 +1108,7 @@ h4 {
     color: black;
 }
 
+
 .footertext
 {
     color: black;
@@ -1139,3 +1140,18 @@ h4 {
   border-bottom: 2px solid rgb(21, 21, 119);
   color: rgb(21, 21, 119);
 }
+
+
+ select {
+    appearance:none;
+    outline:0;
+    box-shadow:none;
+    border:0!important;
+    background-image: none;
+    flex: 1;
+    padding: 0 .5em;
+    color:#fff;
+    cursor:pointer;
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+ }
