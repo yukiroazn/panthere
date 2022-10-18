@@ -1173,3 +1173,55 @@ select
   .arrows{
     color: white;
   }
+
+  @media (max-width: 1000px) 
+  {
+    .descriptionagence2 {
+        padding-left: 1rem;
+        width: 100%;
+    }
+}
+
+  @media (max-width: 740px) 
+  {
+    .descriptionagence {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .descriptionagence1 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .descriptionagence2 {
+        padding-left: 4rem;
+    }
+}
+
+@media (max-width: 550px) 
+{
+  .form-control {
+      padding-right: 20px;
+      width: 450px;
+  }
+}
+
+@media (max-width: 491px) 
+{
+  .form-control {
+      width: 400px;
+  }
+}
+
+@media (max-width: 442px) 
+{
+  .form-control {
+      width: 350px;
+  }
+}
+
+@media (max-width: 395px) 
+{
+  .form-control {
+      width: 300px;
+  }
+}
